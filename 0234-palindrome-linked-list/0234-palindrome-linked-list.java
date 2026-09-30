@@ -26,6 +26,7 @@ class Solution {
        }
        last=last.next;
        curr=curr.next;
+       
        }
        return true;
     }
