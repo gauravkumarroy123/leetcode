@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gauravkumarroy123/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/gauravkumarroy123/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/gauravkumarroy123/leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gauravkumarroy123/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/gauravkumarroy123/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/gauravkumarroy123/leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauravkumarroy123/leetcode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/gauravkumarroy123/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -68,9 +71,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/gauravkumarroy123/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravkumarroy123/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravkumarroy123/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/gauravkumarroy123/leetcode/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gauravkumarroy123/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravkumarroy123/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gauravkumarroy123/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gauravkumarroy123/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
