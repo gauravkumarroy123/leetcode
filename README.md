@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gauravkumarroy123/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/gauravkumarroy123/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/gauravkumarroy123/leetcode/tree/master/0704-binary-search) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gauravkumarroy123/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gauravkumarroy123/leetcode/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gauravkumarroy123/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gauravkumarroy123/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
