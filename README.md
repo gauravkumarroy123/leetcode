@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gauravkumarroy123/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/gauravkumarroy123/leetcode/tree/master/0704-binary-search) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gauravkumarroy123/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3477-fruits-into-baskets-ii](https://github.com/gauravkumarroy123/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gauravkumarroy123/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/gauravkumarroy123/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/gauravkumarroy123/leetcode/tree/master/0704-binary-search) |
+| [3477-fruits-into-baskets-ii](https://github.com/gauravkumarroy123/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gauravkumarroy123/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/gauravkumarroy123/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/gauravkumarroy123/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/gauravkumarroy123/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
