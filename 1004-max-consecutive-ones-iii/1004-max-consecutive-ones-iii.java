@@ -8,10 +8,12 @@ class Solution {
                 count++;
             }
             while(count>k){
-                if(nums[start]==0){
-                    count--;
-                }
+                if(nums[start]==1){
+                    start++;
+                }else{
                 start++;
+                count--;
+                }
             }
             max=Math.max(max,i+1-start);
         }
